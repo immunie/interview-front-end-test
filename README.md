@@ -8,7 +8,7 @@ The basic user story is:
 
 A simple task, we need you to clone one of ours pages
 
-> https://immunie.net/products/people
+> https://immunie.net
 
 For this test you are allowed to copy all assets from the page. 👍
 
@@ -32,6 +32,21 @@ Nobody it's expecting it. 💅 But it will be nice to see:
 
 Just don't overengineer it too much. Keep it simple.
 
+### Delivery
+
+_Deployment_: Deploy your project to Vercel or Netlify. Ensure that the deployed site is accessible and functional.
+
+_Documentation_: Write a README file that includes:
+- A brief description of the project
+- Instructions on how to set up and run the project locally
+- Any additional features you implemented
+- Instructions on how to run tests (if any)
+
+_Submission_: Once everything is ready, send us the following information:
+- The link to your GitHub repository
+- The deployed link to your project on Vercel or Netlify
+- Make sure your GitHub repository is public or accessible to us.
+
 ### Points of interest
 
 It all depends of the level of seniority you're applying to, of course. But our main observations are:
@@ -48,10 +63,9 @@ It all depends of the level of seniority you're applying to, of course. But our 
 - modern and idiomatic JavaScript;
 - good patterns of React;
 - thinking twice before introducing a new dependency;
-- experience with RESTful APIs consumption; and
-- good usage of MaterialUI or any other adjacent CSS tool, like Sass preprocessor or Styled Components.
+- good usage of MaterialUI.
 
-Feel free to use any boilerplate, but consider we'll be using Node 12, `npm i` and `npm start` for testing (also `npm test` in case you write tests).
+Feel free to use any boilerplate, but consider we'll be using Node 18+, `npm i` and `npm start` for testing (also `npm test` in case you write tests).
 
 And we don't care about Internet Explorer that much.
 

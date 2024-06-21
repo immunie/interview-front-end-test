@@ -20,7 +20,7 @@ Here's the mandatory frontend stack that must play a major role in your implemen
 
 _Hint_: the translation system is not a requirement, but if you implement it consider i18next;
 
-The project should be deployed at Vercel or Netlify and you should send a link for the github project to: rh.passeverde@immunie.net
+The project should be deployed at Vercel or Netlify.
 
 ### Extra features
 
